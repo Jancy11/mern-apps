@@ -1,1 +1,14 @@
-{"name": "mern-backend", "version": "1.0.0", "main": "server.js"}
+{
+  "name": "mern-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    // Your dependencies
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
